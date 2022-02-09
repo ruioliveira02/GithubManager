@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['readme_2emd_0',['README.md',['../tests_2correctness_2t3_2expected_2README_8md.html',1,'(Global Namespace)'],['../tests_2correctness_2t3_2README_8md.html',1,'(Global Namespace)'],['../tests_2performance_2100GB_2README_8md.html',1,'(Global Namespace)'],['../tests_2performance_210GB_2README_8md.html',1,'(Global Namespace)'],['../tests_2performance_21GB_2README_8md.html',1,'(Global Namespace)'],['../tests_2performance_2200MB_2README_8md.html',1,'(Global Namespace)'],['../tests_2performance_250GB_2README_8md.html',1,'(Global Namespace)'],['../tests_2performance_2README_8md.html',1,'(Global Namespace)']]],
+  ['table_2ec_1',['table.c',['../table_8c.html',1,'']]],
+  ['table_2eh_2',['table.h',['../table_8h.html',1,'']]],
+  ['taskmanager_2ec_3',['taskManager.c',['../taskManager_8c.html',1,'']]],
+  ['taskmanager_2eh_4',['taskManager.h',['../taskManager_8h.html',1,'']]],
+  ['test_5fdir_5',['TEST_DIR',['../tests_8c.html#aba8cb34a85a8822c9b79de9cfecd4595',1,'tests.c']]],
+  ['tests_2ec_6',['tests.c',['../tests_8c.html',1,'']]],
+  ['text_7',['text',['../structtext.html',1,'text'],['../structbutton.html#a0c1b7b69b32eabbdd05f4e7d9bb26edb',1,'button::text()'],['../unioncontent.html#a3f9ff2c25ba13d140f9658c093342086',1,'content::text()'],['../structsplash.html#a022479b3deea9df933fa5b54e62619ce',1,'splash::text()']]],
+  ['text_8',['Text',['../text_8h.html#aa872d9f8e1d93929eae912878687aaa6',1,'text.h']]],
+  ['text_9',['TEXT',['../visualElement_8h.html#a2f9ba51547193b7daec963fd4f1ab8dea9a4a47c1606e295076055a9cc4373197',1,'visualElement.h']]],
+  ['text_2ec_10',['text.c',['../text_8c.html',1,'']]],
+  ['text_2eh_11',['text.h',['../text_8h.html',1,'']]],
+  ['title_12',['Title',['../title_8h.html#a23e7c925497151ee8579c8d8987b5873',1,'title.h']]],
+  ['title_13',['TITLE',['../visualElement_8h.html#a2f9ba51547193b7daec963fd4f1ab8dea0a041e18d712f7b239eac5375daf4a05',1,'visualElement.h']]],
+  ['title_14',['title',['../structtitle.html',1,'title'],['../unioncontent.html#ab666876f882eee109f0c60c6c7fb1303',1,'content::title()']]],
+  ['title_2ec_15',['title.c',['../title_8c.html',1,'']]],
+  ['title_2eh_16',['title.h',['../title_8h.html',1,'']]],
+  ['tolower_17',['toLower',['../utils_8h.html#a507567fa5b5218cf5c030d622ef91e92',1,'toLower(char *s):&#160;utils.c'],['../utils_8c.html#a507567fa5b5218cf5c030d622ef91e92',1,'toLower(char *s):&#160;utils.c']]],
+  ['trimnewline_18',['trimNewLine',['../utils_8h.html#ad2445d783501bbe58156733844332c92',1,'trimNewLine(char *, int):&#160;utils.c'],['../utils_8c.html#ad411cfaece7a02bb0c63126b3aa5f7f4',1,'trimNewLine(char *s, int len):&#160;utils.c']]],
+  ['type_19',['type',['../structuser.html#a83fdc9f8483111af09e0be18ec149330',1,'user']]],
+  ['type_20',['TYPE',['../format_8h.html#aae6f4ce90ec13c63185a05d62ed7e5e7ab47ea8bb955afd0adc0ef98517dd6084',1,'format.h']]],
+  ['type_21',['Type',['../utils_8h.html#ad8acde1ec6ea7d87e774f6108f3f751e',1,'utils.h']]],
+  ['type_22',['type',['../utils_8h.html#a7aead736a07eaf25623ad7bfa1f0ee2d',1,'utils.h']]],
+  ['types_23',['types',['../structformat.html#a92bbbe3d7bba63a6115acb5b82522de1',1,'format']]]
+];

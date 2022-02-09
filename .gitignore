@@ -1,0 +1,24 @@
+#Object files
+*.o
+
+#Input/Output
+*.csv
+queries.txt
+**/output/command*_output.txt
+**/saida/command*_output.txt
+
+#Catalog
+*.indx
+*.dat
+
+#Executables
+guiao-1/guiao-1
+guiao-2/guiao-2
+guiao-3/guiao-3
+guiao-3/test
+
+#VS Code
+.vscode
+
+#Callgrind
+callgrind.out.*
