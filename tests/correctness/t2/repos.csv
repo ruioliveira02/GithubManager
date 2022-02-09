@@ -1,0 +1,5 @@
+id;owner_id;full_name;license;has_wiki;description;language;default_branch;created_at;updated_at;forks_count;open_issues;stargazers_count;size
+1;34;Quotes;MIT;False;The best quotes in Formula 1;C;master;2018-10-10 00:00:00;2020-12-30 12:00:00;0;0;1;100
+2;33;Championship;GNU GPL;True;The summary of the 2021 season in code;C;main;2015-10-01 23:43:12;2013-11-01 21:32:12;0;1;21;33
+3;77;Orders;MIT;True;The collection of team orders in Haskell;Haskell;main;2017-10-10 10:00:00;2020-12-20 21:32:01;0;0;3;77
+4;44;Titles;GNU GPL;False;All of sir lewis's world titles;Haskell;master;2013-10-02 21:01:12;2020-10-10 15:12:01;0;0;0;7
