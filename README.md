@@ -39,7 +39,7 @@ A set of tests were created to access the correctness of the program, which are 
 
 ## Running the project
 
-Running the project is as simple as running ```make``` in the root directory. To run the program, call ```./github-manager```. To run the tests, compile using ```make test``` and execute with ```./test default```.
+Running the project is as simple as running ```make``` in the root directory. To run the program, call ```./guiao-3```. To run the tests, compile using ```make test``` and execute with ```./test default```.
 
 Please note the project is ***not compatible*** with Windows.
 
