@@ -1,6 +1,6 @@
 # Github Manager
 
-This project was developed for the IT Laboratories III class in the year 2021/2022 by [Rui Oliveira](https://github.com/ruioliveira02), [Tiago Bacelar](https://github.com/tiago-bacelar), and [Luís Pereira](https://github.com/lumafepe), and was evaluated with a XX/20.
+This project was developed for the IT Laboratories III class in the year 2021/2022 by [Rui Oliveira](https://github.com/ruioliveira02), [Tiago Bacelar](https://github.com/tiago-bacelar), and [Luís Pereira](https://github.com/lumafepe), and was evaluated with a 20/20.
 
 The goal of the project was to create a management system for a possibly larger than RAM dataset containing information about Github users, commits and repositories, without using a database, in the C programming language.
 
