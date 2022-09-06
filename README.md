@@ -47,4 +47,4 @@ Please note the project is ***not compatible*** with Windows.
 
 There are several ways in which the project could be improved. The addition of a garbage collector to allow some ugly ```free``` to be removed (especially in the GUI), transforming the GUI into a server/client architecture using pipes, making the GUI even more responsive (something like [Bootstrap](https://getbootstrap.com/) grids), a more advanced search routine .etc.
 
-Overall, the group is very happy with the outcome of this project, which was evaluated with a XX score of 20.
+Overall, the group is very happy with the outcome of this project, which was evaluated with a 20 score of 20.
